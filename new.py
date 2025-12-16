@@ -1,1 +1,2 @@
-pritn("Hello, World!")
+print("Hello, World!")
+print("AAA")
